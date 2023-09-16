@@ -1,0 +1,11 @@
+
+.sidebar{
+         width: 240px;
+         height: 100vh;
+         background-color: hwb(180 6% 94%);
+         position: fixed;
+}
+/* .content{
+                  overflow: auto;
+                  margin: 0%;
+} */
